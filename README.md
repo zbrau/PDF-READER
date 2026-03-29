@@ -1,5 +1,5 @@
 # PDF Reader
-# 📚 PDF Reader — Mi Biblioteca Personal
+#  PDF Reader — Mi Biblioteca Personal
 
 This project is a simple PDF reader that allows users to view PDF documents easily.
 Una aplicación web de lectura de PDFs construida con **React** y **Vite**, diseñada para gestionar y leer documentos PDF directamente en el navegador, sin necesidad de un servidor. Todo el progreso, las notas y la biblioteca se guardan de forma local en tu dispositivo.
@@ -8,7 +8,7 @@ Una aplicación web de lectura de PDFs construida con **React** y **Vite**, dise
 ---
 
 It provides features such as searching text, navigating through pages, and zooming in and out.
-## ✨ Características
+##  Características
 
 ## Technology
 ### Biblioteca personal
