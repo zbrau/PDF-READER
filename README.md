@@ -1,50 +1,31 @@
-# PDF-READER
+# PDF Reader
 
-Aplicación web para **visualizar archivos PDF** desde el navegador. Está construida con **React + Vite** y ofrece una base simple para cargar/seleccionar un PDF y navegar por sus páginas.
+This project is a simple PDF reader that allows users to view PDF documents easily.
 
-## Características
+## Overview
 
-- Vista previa y lectura de PDFs en el navegador
-- Interfaz ligera y rápida (Vite + React)
-- Proyecto listo para extender (búsqueda, zoom, paginación, etc.)
+It provides features such as searching text, navigating through pages, and zooming in and out.
 
-## Tecnologías
+## Technology
 
-- React
-- Vite
-- JavaScript
+The project uses PDF.js (Mozilla) for rendering PDFs (typically via canvas) and maintains a responsive user interface.
 
-## Instalación
+## Installation
+
+To run this project, you need to clone the repository and install the required dependencies.
 
 ```bash
 npm install
 ```
 
-## Desarrollo
+## Usage
+
+After installing the dependencies, you can start the application by running:
 
 ```bash
-npm run dev
+npm start
 ```
 
-## Build
+## License
 
-```bash
-npm run build
-```
-
-## Uso
-
-1. Inicia el servidor de desarrollo.
-2. Abre la app en tu navegador.
-3. Carga o selecciona un archivo PDF para leerlo.
-
-## Próximos pasos (ideas)
-
-- Zoom in/out
-- Navegación por páginas
-- Búsqueda de texto
-- Modo oscuro
-
----
-
-> README actualizado el 2026-03-29.
+This project is licensed under the MIT License.
