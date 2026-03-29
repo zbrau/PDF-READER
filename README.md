@@ -1,7 +1,6 @@
 # PDF Reader
 #  PDF Reader — Mi Biblioteca Personal
 
-This project is a simple PDF reader that allows users to view PDF documents easily.
 Una aplicación web de lectura de PDFs construida con **React** y **Vite**, diseñada para gestionar y leer documentos PDF directamente en el navegador, sin necesidad de un servidor. Todo el progreso, las notas y la biblioteca se guardan de forma local en tu dispositivo.
 
 
@@ -14,7 +13,6 @@ Una aplicación web de lectura de PDFs construida con **React** y **Vite**, dise
 - **Etiquetas** para organizar y filtrar tus documentos por categorías.
 - Elimina libros de la biblioteca sin perder el progreso guardado.
 
-The project uses PDF.js (Mozilla) for rendering PDFs (typically via canvas) and maintains a responsive user interface.
 ### Lector de PDFs
 - Renderizado de alta calidad usando **PDF.js**.
 - Recuerda automáticamente la última página leída por archivo.
@@ -30,7 +28,6 @@ The project uses PDF.js (Mozilla) for rendering PDFs (typically via canvas) and 
 - **Lectura en voz alta (TTS)**: lee el texto de la página actual usando la síntesis de voz del navegador (idioma español).
 - **Traducción rápida**: selecciona cualquier texto y aparece un botón para abrirlo directamente en Google Translate.
 
-To run this project, you need to clone the repository and install the required dependencies.
 ### Panel de miniaturas
 - Visualiza todas las páginas del documento en miniatura.
 - Navega a cualquier página con un clic.
@@ -79,7 +76,6 @@ npm run dev
 ## Usage
 Abre tu navegador en `http://localhost:5173`.
 
-After installing the dependencies, you can start the application by running:
 ### Otros comandos
 
 ```bash
