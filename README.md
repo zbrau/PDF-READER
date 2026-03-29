@@ -42,7 +42,7 @@ To run this project, you need to clone the repository and install the required d
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 | Tecnología | Uso |
 |---|---|
